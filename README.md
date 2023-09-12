@@ -1,2 +1,2 @@
-# Delhi-Metro-Rail-Corporation
-This aim of this web application is to help users find the shortest path to their destination metro station. The application is made using HTML, CSS , JavaScript 
+# Delhi-Metro-Rail-Coorporation
+This is DMRC website using html, css, javascript which is used to find the shortest path between two metro stations
